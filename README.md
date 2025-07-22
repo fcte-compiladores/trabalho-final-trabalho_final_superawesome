@@ -24,5 +24,7 @@ This repository implements from Lox to Java.
 - There is not a `break` statement implemented
 - There is no support for multi-line comments
 - There is no use to `new` when instancing
+- There is no support for if statements using `?` and `:`
+- No error handling when dividing by zero =(
 ## References
 https://craftinginterpreters.com/
