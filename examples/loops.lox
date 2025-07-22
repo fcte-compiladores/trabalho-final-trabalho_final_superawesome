@@ -1,0 +1,15 @@
+print "--- While Loop ---";
+var i = 0;
+while(i < 3){
+    print i;
+    i = i + 1;
+}
+
+print "--- For Loop ---";
+for (var j = 0; j < 3; j = j + 1) {
+    print j;
+}
+
+print "--- Loop with break not suported unfortunatetly ---";
+
+
